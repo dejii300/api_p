@@ -1,3 +1,3 @@
 # api_p
 This a project build with django restframework,
-in this project user can perform CRUD oprations.
+it consist of HTTP methods(GET, POST, PUT, DELETE)
